@@ -17,6 +17,7 @@ public class Fraction {
 		// TODO Auto-generated method stub
 		Fraction f = new Fraction(2,5);
 		System.out.println(f.toString());
+		System.out.println("Hello");
 	}
 
 }
